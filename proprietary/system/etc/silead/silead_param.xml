@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device name="GSL6162" dev_ver="0x61">
+    <param>
+        <version>1.0</version>
+        <i0cFixedM>22</i0cFixedM>
+        <ib8FixedM>22</ib8FixedM>
+        <i0cMatchTuneDownM>22</i0cMatchTuneDownM>
+        <i0cMatchTuneUpM>22</i0cMatchTuneUpM>
+    </param>
+    <sizeinfo>
+        <width>10</width>
+        <height>10</height>
+        <up>1</up>
+        <down>1</down>
+        <left>1</left>
+        <right>1</right>
+    </sizeinfo>
+    <SysParam>
+        <fftMin>1</fftMin>
+        <covMin>1</covMin>
+        <bright>1</bright>
+        <dark>1</dark>
+        <mean>1</mean>
+        <var>1</var>
+    </SysParam>
+    <registers>
+		<register val="0xFF08000C">0x000000a8</register>
+		<register val="0xFF0000B8">0x00104047</register>
+		<register val="0xFF000004">0x00010000</register>
+		<register val="0xFF0000A8">0x00000247</register>
+		<register val="0xFF0000AC">0x11000000</register>
+		<register val="0xFF0000B0">0x00000050</register>
+		<register val="0xFF0000BC">0x000A0042</register>
+		<register val="0xFF080004">0x00030004</register>
+		<register val="0xFF080008">0x0000000b</register>
+		<register val="0xFF080010">0x00080004</register>
+		<register val="0xFF080014">0x00000014</register>
+		<register val="0xFF080018">0x000b0001</register>
+		<register val="0xFF08001C">0x00603006</register>
+		<register val="0xff080024">0x2007ffff</register>
+		<register val="0xFF080028">0x006d0077</register>
+		<register val="0xFF08002C">0x00000000</register>
+		<register val="0xFF080058">0x0000ffff</register>
+		<register val="0xFF080000">0x00020000</register>
+    </registers>
+</device>

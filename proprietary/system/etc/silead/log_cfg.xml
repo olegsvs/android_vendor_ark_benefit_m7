@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sl_log>
+<!--location introduction : str_dec is the log out discription,the node (location) decide where to print/-->
+<location str_dec="log to logcat">0</location>
+<!--location str_dec="log to adb shell">1</location-->
+<!--location str_dec="log to stdout">2</location-->
+
+<!--log_lvl  introduction : str_dec is the log out discription,the node (location) decide where to print/-->
+<!--log_lvl str_dec="SL_LOG_UNKNOWN">0</log_lvl-->
+<!--log_lvl str_dec="DEFAULT">1</log_lvl-->
+<!--log_lvl str_dec="VERBOSE">2</log_lvl-->
+<!--<log_lvl str_dec="DEBUG">3</log_lvl> -->
+<!--log_lvl str_dec="INFO">4</log_lvl-->
+<!--log_lvl str_dec="WARN">5</log_lvl-->
+<!--log_lvl str_dec="ERROR">6</log_lvl-->
+<!--<log_lvl str_dec="FATAL">7</log_lvl> -->
+<log_lvl str_dec="SILENT">8</log_lvl>
+<!--log_lvl str_dec="SILENT">9</log_lvl-->
+</sl_log>
