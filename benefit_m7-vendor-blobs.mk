@@ -324,6 +324,7 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib/libpalsecurity.so:system/lib/libpalsecurity.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libpalwlan_mtk.so:system/lib/libpalwlan_mtk.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libperfservice.so:system/lib/libperfservice.so \
+	vendor/ark/benefit_m7/proprietary/system/lib/libcam.campipe.so:system/lib/libcam.campipe.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libperfservicenative.so:system/lib/libperfservicenative.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libpppbtdun.so:system/lib/libpppbtdun.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libpq_cust.so:system/lib/libpq_cust.so \
@@ -557,6 +558,7 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam.metadataprovider.so:system/lib64/libcam.metadataprovider.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam3_hwnode.so:system/lib64/libcam3_hwnode.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam3_hwpipeline.so:system/lib64/libcam3_hwpipeline.so \
+	vendor/ark/benefit_m7/proprietary/system/lib64/libcam.campipe.so:system/lib64/libcam.campipe.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libcam3_app.so:system/lib/libcam3_app.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam3_app.so:system/lib64/libcam3_app.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libcam3_pipeline.so:system/lib/libcam3_pipeline.so \
