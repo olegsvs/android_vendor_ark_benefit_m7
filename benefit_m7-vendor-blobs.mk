@@ -217,6 +217,10 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib/libcam.halsensor.so:system/lib/libcam.halsensor.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libcam.iopipe.so:system/lib/libcam.iopipe.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libcam.jni.lomohaljni.so:system/lib/libcam.jni.lomohaljni.so \
+    vendor/ark/benefit_m7/proprietary/system/lib/libcam.iopipe_FrmB.so:system/lib/libcam.iopipe_FrmB.so \
+	vendor/ark/benefit_m7/proprietary/system/lib/libcamdrv_FrmB.so:system/lib/libcamdrv_FrmB.so \
+	vendor/ark/benefit_m7/proprietary/system/lib/libimageio_FrmB.so:system/lib/libimageio_FrmB.so \
+	vendor/ark/benefit_m7/proprietary/system/lib/libimageio_plat_drv_FrmB.so:system/lib/libimageio_plat_drv_FrmB.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libcam.metadata.so:system/lib/libcam.metadata.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libcam.paramsmgr.so:system/lib/libcam.paramsmgr.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libcam.sdkclient.so:system/lib/libcam.sdkclient.so \
@@ -406,6 +410,10 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam.exif.so:system/lib64/libcam.exif.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam.halsensor.so:system/lib64/libcam.halsensor.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam.iopipe.so:system/lib64/libcam.iopipe.so \
+	vendor/ark/benefit_m7/proprietary/system/lib64/libcam.iopipe_FrmB.so:system/lib64/libcam.iopipe_FrmB.so \
+	vendor/ark/benefit_m7/proprietary/system/lib64/libcamdrv_FrmB.so:system/lib64/libcamdrv_FrmB.so \
+	vendor/ark/benefit_m7/proprietary/system/lib64/libimageio_FrmB.so:system/lib64/libimageio_FrmB.so \
+	vendor/ark/benefit_m7/proprietary/system/lib64/libimageio_plat_drv_FrmB.so:system/lib64/libimageio_plat_drv_FrmB.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam.jni.lomohaljni.so:system/lib64/libcam.jni.lomohaljni.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam.metadata.so:system/lib64/libcam.metadata.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcam.paramsmgr.so:system/lib64/libcam.paramsmgr.so \
