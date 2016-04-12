@@ -615,11 +615,4 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib64/libsysparm.so:system/lib64/libsysparm.so \
     vendor/ark/benefit_m7/proprietary/system/etc/silead/log_cfg.xml:system/etc/silead/log_cfg.xml \
     vendor/ark/benefit_m7/proprietary/system/etc/silead/silead_config.xml:system/etc/silead/silead_config.xml \
-    vendor/ark/benefit_m7/proprietary/system/app/webview/webview.apk:system/app/webview/webview.apk \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libwebviewchromium.so:system/lib64/libwebviewchromium.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libwebviewchromium_loader.so:system/lib64/libwebviewchromium_loader.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libwebviewchromium_plat_support.so:system/lib64/libwebviewchromium_plat_support.so \
-    vendor/ark/benefit_m7/proprietary/system/lib/libwebviewchromium.so:system/lib/libwebviewchromium.so \
-    vendor/ark/benefit_m7/proprietary/system/lib/libwebviewchromium_loader.so:system/lib/libwebviewchromium_loader.so \
-    vendor/ark/benefit_m7/proprietary/system/lib/libwebviewchromium_plat_support.so:system/lib/libwebviewchromium_plat_support.so \
     vendor/ark/benefit_m7/proprietary/system/etc/silead/silead_param.xml:system/etc/silead/silead_param.xml 
