@@ -592,15 +592,6 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libcameraservice.so:system/lib64/libcameraservice.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libMtkOmxAdpcmDec.so:system/lib64/libMtkOmxAdpcmDec.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libMtkOmxAdpcmEnc.so:system/lib64/libMtkOmxAdpcmEnc.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libMtkOmxAlacDec.so:system/lib64/libMtkOmxAlacDec.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libMtkOmxApeDec.so:system/lib64/libMtkOmxApeDec.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libMtkOmxG711Dec.so:system/lib64/libMtkOmxG711Dec.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libMtkOmxGsmDec.so:system/lib64/libMtkOmxGsmDec.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libMtkOmxMp3Dec.so:system/lib64/libMtkOmxMp3Dec.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libMtkOmxRawDec.so:system/lib64/libMtkOmxRawDec.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libMtkOmxVorbisEnc.so:system/lib64/libMtkOmxVorbisEnc.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libaslxml.so:system/lib64/libaslxml.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libfpcal.so:system/lib64/libfpcal.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libfpsvc.so:system/lib64/libfpsvc.so \
