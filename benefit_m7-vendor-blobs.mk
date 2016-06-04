@@ -179,6 +179,14 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib/libPQjni.so:system/lib/libPQjni.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libSwJpgCodec.so:system/lib/libSwJpgCodec.so \
     vendor/ark/benefit_m7/proprietary/system/lib/liba3m.so:system/lib/liba3m.so \
+    vendor/ark/benefit_m7/proprietary/system/lib/libfeatureio.so:system/lib/libfeatureio.so \
+    vendor/ark/benefit_m7/proprietary/system/lib/libfeatureiodrv.so:system/lib/libfeatureiodrv.so \
+    vendor/ark/benefit_m7/proprietary/system/lib/libmmsdkservice.feature.so:system/lib/libmmsdkservice.feature.so \
+    vendor/ark/benefit_m7/proprietary/system/lib/libmmsdkservice.feature_platform.so:system/lib/libmmsdkservice.feature_platform.so \
+    vendor/ark/benefit_m7/proprietary/system/lib64/libfeatureio.so:system/lib64/libfeatureio.so \
+    vendor/ark/benefit_m7/proprietary/system/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so \
+    vendor/ark/benefit_m7/proprietary/system/lib64/libmmsdkservice.feature.so:system/lib64/libmmsdkservice.feature.so \
+    vendor/ark/benefit_m7/proprietary/system/lib64/libmmsdkservice.feature_platform.so:system/lib64/libmmsdkservice.feature_platform.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libaal.so:system/lib/libaal.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libacdk.so:system/lib/libacdk.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libadpcm.so:system/lib/libadpcm.so \
