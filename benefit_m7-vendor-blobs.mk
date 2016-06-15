@@ -318,7 +318,6 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib/libmtkbtextspp.so:system/lib/libmtkbtextspp.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libmtkjpeg.so:system/lib/libmtkjpeg.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libmtklimiter.so:system/lib/libmtklimiter.so \
-    vendor/ark/benefit_m7/proprietary/system/lib/libmtkplayer.so:system/lib/libmtkplayer.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libmtkshifter.so:system/lib/libmtkshifter.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libn3d3a.so:system/lib/libn3d3a.so \
     vendor/ark/benefit_m7/proprietary/system/lib/libnativecheck-jni.so:system/lib/libnativecheck-jni.so \
@@ -502,7 +501,6 @@ PRODUCT_COPY_FILES += \
     vendor/ark/benefit_m7/proprietary/system/lib64/libmtk_mmutils.so:system/lib64/libmtk_mmutils.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libmtkjpeg.so:system/lib64/libmtkjpeg.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libmtklimiter.so:system/lib64/libmtklimiter.so \
-    vendor/ark/benefit_m7/proprietary/system/lib64/libmtkplayer.so:system/lib64/libmtkplayer.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libmtkshifter.so:system/lib64/libmtkshifter.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/liblogwrap.so:system/lib64/liblogwrap.so \
     vendor/ark/benefit_m7/proprietary/system/lib64/libn3d3a.so:system/lib64/libn3d3a.so \
