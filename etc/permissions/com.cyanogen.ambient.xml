@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2014 Cyanogen, Inc.
+  -->
+<permissions>
+    <!-- This feature locks AmbientCore to our distributions -->
+    <feature name="com.cyanogen.ambient" />
+</permissions>

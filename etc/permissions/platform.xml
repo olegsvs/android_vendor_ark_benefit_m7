@@ -54,11 +54,6 @@
         <group gid="inet" />
     </permission>
 
-    <permission name="android.permission.ACCESS_MTK_MMHW" >
-        <group gid="media" />
-        <group gid="camera" />
-    </permission>
-
     <permission name="android.permission.READ_LOGS" >
         <group gid="log" />
     </permission>
@@ -131,8 +126,6 @@
     <assign-permission name="android.permission.WAKE_LOCK" uid="media" />
     <assign-permission name="android.permission.UPDATE_DEVICE_STATS" uid="media" />
     <assign-permission name="android.permission.UPDATE_APP_OPS_STATS" uid="media" />
-    <assign-permission name="android.permission.CAMERA" uid="media" />
-    <assign-permission name="android.permission.ACCESS_FM_RADIO" uid="media" />
 
     <assign-permission name="android.permission.ACCESS_SURFACE_FLINGER" uid="graphics" />
 
@@ -149,4 +142,5 @@
     <!-- These are the standard packages that are white-listed to always have internet
          access while in power save mode, even if they aren't in the foreground. -->
     <allow-in-power-save-except-idle package="com.android.providers.downloads" />
+
 </permissions>

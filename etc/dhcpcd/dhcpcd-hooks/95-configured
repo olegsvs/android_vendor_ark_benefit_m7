@@ -13,8 +13,7 @@ fi
 setprop dhcp.${intf}.reason "${reason}"
 
 case "${reason}" in
-#BOUND|INFORM|REBIND|REBOOT|RENEW|TIMEOUT)
- BOUND|INFORM|REBIND|REBOOT|RENEW|TIMEOUT|IPV4LL)
+BOUND|INFORM|REBIND|REBOOT|RENEW|TIMEOUT)
     setprop dhcp.${intf}.ipaddress  "${new_ip_address}"
     setprop dhcp.${intf}.gateway    "${new_routers%% *}"
     setprop dhcp.${intf}.mask       "${new_subnet_mask}"
@@ -26,9 +25,7 @@ case "${reason}" in
     setprop dhcp.${intf}.result "ok"
     ;;
 
-
-#EXPIRE|FAIL|IPV4LL|STOP)
- EXPIRE|FAIL|STOP)
+EXPIRE|FAIL|IPV4LL|STOP)
     setprop dhcp.${intf}.result "failed"
     ;;
 

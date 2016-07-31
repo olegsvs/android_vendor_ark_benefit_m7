@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This feature shows that this carries the signed-build updater -->
+<permissions>
+    <feature name="com.cyngn.fota" />
+</permissions>
+
